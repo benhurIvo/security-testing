@@ -1,4 +1,4 @@
-#Security Testing
+# Security Testing
 
 The purpose of the project was to analyse ‘schoolmate’ a PHP/MySQL web application for elementary,
 middle and high schools; to identify the Cross Site Scripting (XSS) vulnerabilities it contains and fix
